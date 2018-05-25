@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="css/header.css" type="text/css">
+	<link rel="stylesheet" href="css/style.css" type="text/css">
+	<link rel="stylesheet" href="css/footer.css" type="text/css">
+	<title>UPAC Cinema</title>
+</head>
+<body>
+	<div id="header">
+		<div>
+			<a href="index.html" id="logo"><img src="images/logo.png" alt="LOGO"></a>
+			<ul>
+				<li><a href="index.html">Schedule</a></li>
+				<li><a href="policies.html">FAQ / Policies</a></li>
+				<li class="selected"><a href="requests.html">Movie Archive / Requests</a></li>
+				<li><a href="feedback.html">Contact / Feedback</a></li>
+				<li><a class=button href="login.html">Log In</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="body">
+		<div id="clubfilm-instructions" class="panel">
+			<h1>How to Sponsor a Club Film</h1>
+			<div>
+				<a href="#request-form">Jump to Request Form</a>
+				<ol>
+					<li>Getting Started</li>
+					<li>The Lottery</li>
+					<li>The Movie is Scheduled</li>
+					<li>The Contract</li>
+					<li>Running the Movie</li>
+				</ol>
+				<p><strong>To be continued:</strong> Website design is still in progress. I am still waiting for styling information on this section. Please be patient.</p>
+			</div>
+		</div>
+		<div id="request-form" class="panel">
+			<h1>Request a Saturday Film</h1>
+			<div>
+				<form>
+					<table>
+						<tr><td>* Organization Name: </td><td><input type="text" required name="club-name"></td></tr>
+						<tr><td>* Contact Name: </td><td><input type="text" required name="contact-name"></td></tr>
+						<tr><td>* Contact Email: </td><td><input type="email" required name="contact-email"></td></tr>
+						<tr>
+							<td>* Union Funded: </td>
+							<td>
+								<input type="radio" name="funding" value="yes" required>Yes
+								<input type="radio" name="funding" value="no" required>No
+							</td>
+						</tr>
+						<tr>
+							<td>* Payment Option: <br></td>
+							<td>
+								<input type="radio" name="payment" value="50/50" required>50/50 option<br>
+								<input type="radio" name="payment" value="full" required>Full option
+							</td>
+						</tr>
+						<tr>
+							<td>* Desired Date: </td>
+							<td>
+								<input type="date" name="date" required>
+							</td>
+						</tr>
+						<tr><td>* First Choice Movie: </td><td><input type="text" name="movie" required></td></tr>
+						<tr><td>Second Choice Movie: </td><td><input type="text" name="movie2" optional></td></tr>
+						<tr><td>Third Choice Movie: </td><td><input type="text" name="movie3" optional></td></tr>
+						<tr><td>Fourth Choice Movie: </td><td><input type="text" name="movie4" optional></td></tr>
+						<tr><td colspan=2>
+							* I have read the How to Sponsor a Club Film Document.
+							<input type="checkbox" name="read-instructions" required>
+						</td></tr>
+					</table><br>
+					<button type="submit">Request Movie</button>
+					<button type="reset">Clear Form</button>
+				</form>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<div class=connect>
+				<span>Follow Us On</span>
+				<ul>
+					<li><a href="https://www.instagram.com/rpiunion/"><img src="images/insta.png" alt="insta"></a></li>
+					<li><a href="https://www.facebook.com/UPACCinema/"><img src="images/facebook.png" alt="f"></a></li>
+					<li><a href="https://twitter.com/UPACCinema/"><img src="images/twitter.png" alt="#"></a></li>
+					<li><a href="https://reddit.com/user/UPACCinema/"><img src="images/reddit.png" alt="r/"></a></li>
+				</ul>
+			</div>
+			<div>
+				<span>Email Us At</span>
+				<p>upac-cinema@union.lists.rpi.edu</p>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

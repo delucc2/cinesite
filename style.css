@@ -1,0 +1,97 @@
+div, h1, table {
+	
+}
+html {
+	margin: 0;
+	padding: 0;
+	min-height: 100%;
+	position: relative;
+	overflow: auto;
+}
+body {
+	margin: 0 0 171px;
+	padding: 0;
+	background: black;
+}
+#body div {
+	margin: 16px;
+}
+#body div.panel h1 {
+	display: block;
+	margin: 0;
+	background-color: yellow;
+	color: black;
+	text-transform: uppercase;
+	text-decoration: none;
+	text-align: left;
+	padding: 5px;
+	font-size: 18pt;
+	line-height: 36px;
+}
+#body div.panel div {
+	margin: 0;
+	background-color: white;
+	color: black;
+	padding: 15px;
+	overflow: auto;
+}
+#body div.panel div div {
+	padding: 0;
+}
+#body div.panel div h2 {
+	text-decoration: none;
+	font-size: 16pt;
+	color: red;
+	margin: 0;
+	padding: 0;
+	font-weight: normal;
+}
+#body div.panel div a {
+	text-decoration: none;
+	color: red;
+	font-weight: normal;
+}
+#body div div a:hover {
+	color: darkred;
+}
+#body div div ol {
+	margin: 0;
+	padding: 20px;
+}
+#body div div ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#body div div li a {
+	color: black;
+}
+#body div div p {
+	margin: 0;
+	padding: 0;
+}
+#body #login {
+	padding: 20px;
+}
+#body #login * {
+	text-align: center;
+}
+#body #login div table {
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+}
+#body #trailer {
+	display: inline-block;
+}
+#body div div.panel {
+	display: inline-block;
+	max-width: auto;
+}
+#body div.panel img {
+	float: left;
+	margin: 10px;
+}
+div.flex-container {
+	display: flex;
+}
