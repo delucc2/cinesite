@@ -22,22 +22,26 @@
 	margin: 0;
 	float: right;
 }
-#header div ul li:first-child {
-	border-left: none;
-}
 #header div ul li {
 	max-width: 108px;
-	padding: 20px 10px;
+	padding: 10px;
 	margin: 0;
-	height: 60px;
+	height: 80px;
+	line-height: 80px;
 	border-left: 1px solid white;
 	text-align: center;
 	display: inline-block;
 	font-size:18px;
-	vertical-align: middle;
+}
+#header div ul li:first-child {
+	border-left: none;
+}
+#header div ul li:last-child {
+	padding-right: 0;
 }
 #header div ul li a {
-	line-height: 100%;
+	line-height: normal;
+	display: inline-block;
 	color: yellow;
 	text-decoration: none;
 	text-transform: uppercase;
