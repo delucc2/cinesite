@@ -1,0 +1,52 @@
+#footer {
+	margin: 16px;
+	background: #404040;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+#footer div {
+	margin:0 auto;
+	padding: 14px;
+}
+#footer div div {
+	border-left:1px solid #fff;
+	margin: 5px;
+	padding: 0 20px;
+	width: 300px;
+	float: left;
+}
+#footer div div:first-child {
+	border:0;
+	padding: 0;
+}
+#footer div div span {
+	color: yellow;
+	font-weight: 700;
+	font-size: 18px;
+	line-height: 30px;
+	text-decoration: none;
+	text-transform: uppercase;
+	text-align: left;
+}
+#footer div div ul {
+	list-style: none;
+	margin-top: 5px;
+	padding: 0;
+}
+#footer div div.connect span {
+	margin-left: 10px;
+}
+#footer div div.connect ul li a {
+	margin: 10px;
+	float: left;
+}
+#footer div div.connect ul li a img {
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+}	
+#footer div div p {
+	color: white;
+}
