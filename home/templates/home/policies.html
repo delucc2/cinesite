@@ -1,21 +1,23 @@
 <!DOCTYPE html>
+{% load static %}
+
 <html>
 <head>
-	<link rel="stylesheet" href="css/header.css" type="text/css">
-	<link rel="stylesheet" href="css/style.css" type="text/css">
-	<link rel="stylesheet" href="css/footer.css" type="text/css">
+	<link rel="stylesheet" href="{% static 'home/header.css' %}" type="text/css">
+	<link rel="stylesheet" href="{% static 'home/style.css' %}" type="text/css">
+	<link rel="stylesheet" href="{% static 'home/footer.css' %}" type="text/css">
 	<title>UPAC Cinema</title>
 </head>
 <body>
 	<div id="header">
 		<div>
-			<a href="index.html" id="logo"><img src="images/logo.png" alt="LOGO"></a>
+			<a href="/" id="logo"><img src="{% static 'home/images/logo.png' %}" alt="LOGO"></a>
 			<ul>
-				<li><a href="index.html">Schedule</a></li>
-				<li class="selected"><a href="/policies.html">FAQ / Policies</a></li>
-				<li><a href="requests.html">Movie Archive / Requests</a></li>
-				<li><a href="feedback.html">Contact / Feedback</a></li>
-				<li><a class=button href="login.html">Log In</a></li>
+				<li><a href="/">Schedule</a></li>
+				<li class="selected"><a href="policies">FAQ / Policies</a></li>
+				<li><a href="requests">Movie Archive / Requests</a></li>
+				<li><a href="feedback">Contact / Feedback</a></li>
+				<li><a class=button href="login">Log In</a></li>
 			</ul>
 		</div>
 	</div>
@@ -65,10 +67,10 @@
 			<div class=connect>
 				<span>Follow Us On</span>
 				<ul>
-					<li><a href="https://www.instagram.com/rpiunion/"><img src="images/insta.png" alt="insta"></a></li>
-					<li><a href="https://www.facebook.com/UPACCinema/"><img src="images/facebook.png" alt="f"></a></li>
-					<li><a href="https://twitter.com/UPACCinema/"><img src="images/twitter.png" alt="#"></a></li>
-					<li><a href="https://reddit.com/user/UPACCinema/"><img src="images/reddit.png" alt="r/"></a></li>
+					<li><a href="https://www.instagram.com/rpiunion/"><img src="{% static 'home/images/insta.png' %}" alt="insta"></a></li>
+					<li><a href="https://www.facebook.com/UPACCinema/"><img src="{% static 'home/images/facebook.png' %}" alt="f"></a></li>
+					<li><a href="https://twitter.com/UPACCinema/"><img src="{% static 'home/images/twitter.png' %}" alt="#"></a></li>
+					<li><a href="https://reddit.com/user/UPACCinema/"><img src="{% static 'home/images/reddit.png' %}" alt="r/"></a></li>
 				</ul>
 			</div>
 			<div>
