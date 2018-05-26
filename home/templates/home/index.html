@@ -27,14 +27,13 @@
 			<div id="now-playing" class="panel">
 				<h1>Now Playing</h1>
 				<div>
-					<h2>Solo: A Star Wars Story</h2>
+					<h2>{{ showings.all.first.title }}</h2>
 					<div>
-						<img src="{% static 'home/images/movie.png' %}" height="200"><br>
-						<p><strong>Rating:</strong> R</p>
-						<p><strong>Runtime:</strong> 94 minutes</p>
-						<p><strong>Director:</strong> No Idea</p><br>
-						<p>Someone does something that probably is important, but I don't 
-						know. I haven't been paying close attention to the movies we show.</p>
+						<img src='{{ showings.all.first.poster.url }}' height="200"><br>
+						<p><strong>Rating:</strong> {{ showings.all.first.rating }}</p>
+						<p><strong>Runtime:</strong> {{ showings.all.first.runtime }} minutes</p>
+						<p><strong>Director:</strong> {{ showings.all.first.director }}</p><br>
+						<p>{{ showings.all.first.description }}</p>
 					</div>
 				</div>
 			</div>
