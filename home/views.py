@@ -1,5 +1,6 @@
 from django.shortcuts import render
-from info.models import Movie
+from info.models import Movie, Officers
+from datetime import date
 
 
 # View for homepage (Schedule tab)
@@ -21,7 +22,26 @@ def requests(request):
 
 # View for Feedback/FAQ tab
 def feedback(request):
-    return render(request, 'home/feedback.html')
+    officers = Officers.objects.get(year=date.today().year)
+    chair = officers.chair
+    fnc = officers.fnc
+    snc = officers.snc
+    mw = officers.mw
+    rep = officers.rep
+    pub = officers.pub
+    web = officers.web
+    proj = officers.projectionists.all()
+
+    context = {'chair': chair,
+               'friday': fnc,
+               'saturday': snc,
+               'midweek': mw,
+               'rep': rep,
+               'publicity': pub,
+               'webmaster': web,
+               'projectionists': proj}
+
+    return render(request, 'home/feedback.html', context)
 
 
 # View for login page

@@ -31,14 +31,22 @@
 			<div>
 				<h2>UPAC Cinema Officers</h2>
 				<ul>
-				<li><strong>Chairperson:</strong> Peter Straub</li>
-				<li><strong>Friday Night Coordinator:</strong> Corey DeLuca</li>
-				<li><strong>Saturday Night Coordinator:</strong> Chad Meece</li>
-				<li><strong>Midweek Coordinator:</strong> Chris Hickey</li>
-				<li><strong>Repertory Coordinator:</strong> LC Hines</li>
-				<li><strong>Publicity Coordinator:</strong> Tyler Gandolfo</li>
-				<li><strong>Projectionists:</strong> Elaine Chao, Chad Meece, Peter Straub</li>
-				<li><strong>Webmaster:</strong> Autumn Walters</li>
+				<li><strong>Chairperson:</strong> {{ chair }}</li>
+				<li><strong>Friday Night Coordinator:</strong> {{ friday }}</li>
+				<li><strong>Saturday Night Coordinator:</strong> {{ saturday }}</li>
+				<li><strong>Midweek Coordinator:</strong> {{ midweek }}</li>
+				<li><strong>Repertory Coordinator:</strong> {{ rep }}</li>
+				<li><strong>Publicity Coordinator:</strong> {{ publicity }}</li>
+				<li><strong>Projectionists:</strong>
+                {% for proj in projectionists %}
+                    {% if proj != projectionists.last %}
+                        {{ proj.name }},
+                    {% else %}
+                        {{ proj.name }}
+                    {% endif %}
+                {% endfor %}
+                </li>
+				<li><strong>Webmaster:</strong> {{ webmaster }}</li>
 				</ul>
 			</div>
 		</div>

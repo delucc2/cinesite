@@ -1,6 +1,5 @@
 from django.db import models
 from datetime import date
-from itertools import chain
 
 
 # Model containing bylaws pdf
@@ -17,8 +16,11 @@ class Policy(models.Model):
 class Projectionist(models.Model):
     name = models.CharField(max_length=200)
 
+    def __str__(self):
+        return self.name
 
-# Model to represent officers
+
+# Model to represent ALL officers
 class Officers(models.Model):
     chair = models.CharField(max_length=200)
     fnc = models.CharField(max_length=200)
@@ -27,7 +29,11 @@ class Officers(models.Model):
     rep = models.CharField(max_length=200)
     pub = models.CharField(max_length=200)
     web = models.CharField(max_length=200)
+    year = models.IntegerField(default=-1)
     projectionists = models.ManyToManyField(Projectionist)
+
+    def __str__(self):
+        return self.year
 
 
 # Returns queryset of ONLY upcoming movies
