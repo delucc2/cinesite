@@ -51,22 +51,22 @@ body {
 	color: red;
 	font-weight: normal;
 }
-#body div div a:hover {
+#body div.panel div a:hover {
 	color: darkred;
 }
-#body div div ol {
+#body div.panel div ol {
 	margin: 0;
 	padding: 20px;
 }
-#body div div ul {
+#body div.panel div ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
-#body div div li a {
+#body div.panel div li a {
 	color: black;
 }
-#body div div p {
+#body div.panel div p {
 	margin: 0;
 	padding: 0;
 }
