@@ -1,0 +1,403 @@
+10 Cloverfield Lane*10*29*2016
+13 Assassins*10*22*2011
+21 Jump Street*7*25*2012
+22 Jump Street*11*21*2014
+28 Days Later*10*17*2003
+50 First Dates*5*1*2004
+50/50*9*13*2014
+A Beautiful Mind*9*14*2013
+A Knight's Tale*12*3*2016
+About Time*2*14*2014
+Alien*9*22*2012
+Amelie*11*7*2015
+American Hustle *3*21*2014
+American Ultra*12*4*2015
+American Wedding *11*14*2003
+Anchorman 2: The Legend Continues*4*18*2014
+Anger Management*8*3*2003
+Animal House*10*2*2010
+Ant Man*10*16*2015
+Apollo 13*10*10*2015
+Argo*4*20*2013
+Arrival*1*20*2017
+Atonement*3*22*2014
+Attack of The Block*2*10*2016
+Avengers: Age of Ultron*9*4*2015
+Back to the Future*8*25*2011
+Bad Boys 2*2*14*2004
+Batman*4*26*2003
+Batman V. Superman: Dawn of Justice*9*9*2016
+Begin Again*11*8*2014
+Bend it like Beckham*9*27*2003
+Big Fish*4*16*2004
+Big Hero 6*2*6*2015
+Birdman*3*6*2015
+Blade Runner*4*25*2015
+Blair Witch Project*10*26*2013
+Blazing Saddles*9*24*2016
+Blow*4*3*2004
+Bowling for Columbine*2*7*2004
+Brave*10*19*2012
+Bridge of Spies*2*19*2016
+Brooklyn*2*5*2016
+Buried*2*5*2011
+Cabin Fever*1*23*2004
+CaddyShack*1*28*2017
+Captain America: Civil War*9*2*2016
+Captain America: The First Avenger*11*4*2011
+Captain America: The Winter Solider*9*5*2014
+Captain Phillips*2*7*2014
+Carol*3*9*2016
+Cars 2*10*28*2011
+Casablanca*11*22*2014
+Casino Royale*4*19*2014
+Catch Me If You Can*4*12*2014
+Chappie*10*3*2015
+Charlie and the Choclate Factory*3*29*2014
+Charlie's Angels: Full Throttle*9*26*2003
+Chicago*9*25*2010
+Chronicle*4*13*2012
+Clash of the Titans*8*28*2010
+Clerks*9*29*2012
+Clockwork Orange*4*5*2003
+Clue*3*22*2003
+Confidence*9*5*2003
+Coraline*10*31*2015
+Corpse Bride*10*22*2016
+Cowboy Bebop*4*24*2004
+Cowboys and Aliens*12*2*2011
+Creed*4*15*2016
+Daredevil*8*23*2003
+Dawn of the Planets of the Apes*10*24*2014
+Daybreakers*5*2*2015
+Dead Poets Society*4*26*2014
+Deadpool*4*29*2016
+Despicable Me *10*22*2010
+Despicable Me 2*10*4*2013
+Die Another Day*4*18*2003
+Dinner for Schmucks*10*29*2010
+Django Unchained*4*20*2013
+Doctor Strange*2*3*2017
+Dogma*8*21*2003
+Donnie Darko*10*11*2003
+Don't Breathe*10*28*2016
+Dope*1*30*2016
+Dredd*12*7*2012
+Drive*2*3*2012
+Due Date*2*18*2011
+Dumb and Dumber To*11*10*2014
+E.T. the Extra-Terrestrial*7*22*2016
+Earth*4*30*2011
+Edge of Tomorrow/Live Die Repeat*9*19*2014
+Elf*4*10*2004
+Elysium*11*8*2013
+Ender's Game*1*31*2014
+Equilibrium*4*12*2003
+Erin Brockovich*4*17*2004
+Event Horizion*3*31*2012
+Ex Machina*4*2*2016
+Exit Through the Gift Shop*3*5*2011
+Fantastic Beasts and Where to Find Them*2*10*2017
+Fantastic Mr.Fox*10*1*2016
+Fast & Furious 6*8*23*2013
+Fast & Furious 7*8*28*2015
+Faster*2*25*2011
+Fight Club*5*3*2014
+Final Destination 2*9*13*2003
+Finding Dory*10*7*2016
+Finding Nemo*9*6*2014
+Footloose*7*11*2012
+Forrest Gump*11*10*2012
+Freddy vs. Jason*11*7*2003
+Frozen*4*4*2014
+Fury *1*30*2015
+Galaxy Quest*9*8*2012
+Get Him to the Greek*9*10*2010
+Get Out *2*7*2016
+GhostBusters(1984)*10*15*2016
+GhostBusters(2016)*10*14*2016
+Gladiator*9*19*2015
+Godzilla*8*29*2014
+Gone Girl*4*17*2015
+Goodfellas*4*16*2011
+Gothika*3*19*2004
+Gran Torino*1*31*2015
+Grand Budapest Hotel*9*27*2014
+Green Hornet*3*24*2011
+Guardians of the Galaxy*11*7*2014
+Hacksaw Ridge*2*24*2017
+Hangover 2*9*16*2011
+Harry Potter and the Chamber of Secrets*3*28*2003
+Harry Potter and the Deathly Hallows Part 1*3*4*2011
+Harry Potter and the Deathly Hallows Part 2*10*21*2011
+HeadHunters*9*12*2015
+Her*4*25*2014
+Hercules*11*14*2014
+Hero*11*20*2010
+Horrible Bosses*10*7*2011
+How to Train Your Dragon *10*23*2010
+How to Train Your Dragon 2*10*3*2014
+Howl's Moving Castle*11*13*2010
+Hunger Games: Catching Fire*2*28*2014
+Identity*7*13*2003
+Idiocracy*3*30*2016
+Immortals*2*17*2012
+In Bruges*9*3*2016
+Inception*11*19*2010
+Inglorious Bastards*2*25*2017
+Inside Out *10*23*2015
+Insidious*10*15*2011
+Interstellar*2*20*2015
+Interveiw with a Vampire*2*21*2015
+Into the Woods*3*20*2015
+Ip Man*11*23*2013
+Iron Man 2*9*24*2010
+Iron Man 3*9*6*2013
+It Follows*12*10*2016
+It's Kind of a Funny Story*2*4*2011
+J. Edgar*2*24*2012
+Jackass 3*1*28*2011
+Jackass: The Movie*2*28*2003
+Johnny Mnemonic*11*1*2014
+Jurassic Park*2*4*2015
+Jurassic World*10*2*2015
+Jurrassic Park*1*28*2012
+Kate and Leopold*2*14*2015
+Kick Ass*11*6*2010
+Kick Ass 2*11*22*2013
+Kill Bill Volume 1*2*20*2004
+Kingsmen: The Secret Service*9*5*2015
+Kung Fu Panda 2*9*2*2011
+La La Land*2*17*2017
+Ladyhawke*4*2*2004
+Lawless*12*7*2012
+Legend*4*30*2016
+Legend of the Drunken Master*1*18*2003
+Les Miserables*11*2*2013
+Lilo and Stitch*11*12*2011
+Lock,Stock, and Two Smoking Barrels*4*19*2003
+Looney Tunes: Back in Action*3*26*2004
+Lord of the Rings: Return of the King*4*9*2004
+Lord of the Rings: The Two Towers*4*4*2003
+Lost in Translation*2*13*2004
+Machete*12*3*2010
+Mad Max: Fury Road*12*5*2015
+Maleficent*10*10*2014
+Man of Steel*9*20*2013
+Mandela: Long Walk to Freedom*2*4*2017
+Matchstick Men*1*16*2004
+Matrix: Revolutions*2*6*2004
+Max*9*25*2015
+Megamind*2*11*2011
+Men in Black*10*25*2003
+Men in Black 3*9*7*2012
+Mission Impossible: Ghost Protocol*4*6*2012
+Mission Impossible: Rogue Nation*11*13*2015
+Moana*1*27*2017
+Monster's University*10*18*2013
+Moonrise Kingdom*11*17*2012
+Mortal Kombat*10*18*2003
+Moulin Rouge*12*1*2012
+Mr. Holmes*2*27*2016
+Much Ado About Nothing*10*5*2013
+Muppets' Most Wanted*8*22*2014
+Mystic River*4*23*2004
+National Lampoon's Christmas Vacation*2*22*2003
+National Treasure*4*5*2014
+Neighbors*9*12*2014
+Night of the Living Dead*2*14*2013
+Nine Queens*3*1*2003
+Now You See Me 2*3*3*2017
+Ocean's Thirteen*10*17*2015
+Old School*7*20*2003
+One Flew Over the Cuckoo's Nest*5*7*2016
+One Hour Photo*2*21*2003
+Ong Bak 2*2*19*2011
+Ouija: Origin of Evil*10*17*2016
+Pacific Rim*10*11*2013
+Pandorum*1*29*2011
+Pan's Labyrinth*2*1*2014
+Paycheck*4*30*2004
+PCU*12*11*2010
+Perks of Being a Wallflower*1*25*2014
+PHD Comics*3*24*2012
+Pillow Book*4*11*2003
+Pineapple Express*4*20*2012
+Pirates of the Caribbean*10*24*2003
+Pirates of the Caribbean: On Stranger Tides*8*27*2011
+Pitch Perfect*11*16*2013
+Pitch Perfect 2*9*11*2015
+Popstar: Never Stop Never Stopping*4*18*2016
+Princess Mononoke*1*17*2004
+Prometheus*9*22*2012
+Psycho*10*8*2016
+Raiders of the Lost Ark*4*4*2015
+Rango*9*17*2011
+Real Steel*1*27*2012
+Red Dragon*1*17*2003
+Repo: The Genetic Opera*4*9*2011
+Reservior Dogs*4*2*2011
+Resident Evil: Afterlife*12*10*2010
+Revenge of the Nerds*11*15*2014
+Riddick*4*23*2016
+Rise of the Gaurdians*4*27*2013
+Rise of the Planet of the Apes*11*18*2011
+Rocky *4*16*2016
+Rocky Horror Picture Show*3*30*2004
+Room*3*25*2016
+Rush*1*24*2014
+S.W.A.T.*11*21*2003
+San Andreas*9*18*2015
+Sasuage Party*12*9*2016
+Saving Private Ryan*11*11*2016
+Scary Movie 3*2*21*2004
+Schindler's List*9*21*2013
+Scott Pilgram Vs. the World*9*26*2015
+Seeking a Friend for the End of the World*9*14*2012
+Selma*2*27*2015
+Shawshank Redemption*8*19*2015
+Sherlock Holmes*6*27*2012
+Sherlock Holmes: A Game of Shadows*3*23*2012
+Sisters*4*1*2016
+Sky High*10*24*2015
+Skyfall*4*20*2013
+Sleepless in Seattle*2*11*2012
+Snatch*3*26*2011
+Snowden*12*2*2016
+Spirited Away*2*7*2003
+Star Trek: Beyond*9*30*2016
+Star Trek: Into Darkness*8*30*2013
+Star Wars VII: The Force Awakens*5*6*2016
+Starship Troopers*9*1*2012
+Step Brothers*11*19*2016
+Straight Outta Compton*11*20*2015
+Suicide Squad*11*4*2016
+Super 8*9*30*2011
+Sweet Home Alabama*1*31*2003
+Take the Lead*9*7*2013
+Tangled*4*8*2011
+Ted *10*12*2012
+Ted 2*11*6*2015
+Teenage Mutant Ninja Turtles (1990)*11*3*2012
+Tenacious D and the Pick of Destiny*3*7*2015
+Terminator 3: Rise of the Machines*10*10*2003
+The A Team*9*17*2010
+The Adventures of Tintin*3*2*2012
+The Amazing Spider-Man *9*28*2012
+The Animation Show*1*30*2004
+The Avengers*8*31*2012
+The Big Lewbowski*1*21*2017
+The Big Short*2*26*2016
+The Book of Life*2*6*2016
+The Boondock Saints*10*4*2003
+The Bourne Legacy*11*30*2012
+The Cabin in the Woods*10*27*2012
+The Café Society*11*18*2016
+The Conjuring *10*25*2013
+The Dark Knight Rises*11*9*2012
+The Day After Tomorrow*11*14*2015
+The Departed*9*28*2013
+The Devil's Backbone*11*8*2003
+The Discreet Charm of the Bourgeoisie*10*16*2010
+The Emperor's New Groove*1*24*2004
+The Expendables 2*11*16*2012
+The Expendables 3*10*17*2014
+The Fighter*4*15*2011
+The Gift*10*30*2015
+The Girl with the Dragon Tattoo*11*19*2011
+The Goonies*10*19*2013
+The Grey*4*27*2012
+The Hateful Eight*4*22*2016
+The Hobbit: An Unexpected Journey*5*1*2013
+The Hobbit: Battle of Five Armies*4*3*2015
+The Hobbit: Desolation of Smaug*4*11*2014
+The Hunger Games: Mocking Jay Part 1*2*13*2015
+The Hunger Games: Mocking Jay Part 2*2*12*2016
+The Huntsman: Winter's War*4*5*2016
+The Imitation Game*5*8*2015
+The Incredibles*10*25*2014
+The Intouchables*11*5*2016
+The Iron Giant*11*12*2016
+The Italian Job*9*12*2003
+The Joy Luck Club*11*21*2015
+The Karate Kid(2010)*10*1*2010
+The King's Speech*5*9*2015
+The Last Samurai*9*4*2010
+The Lego Movie*5*2*2014
+The Lion King*2*25*2012
+The Lorax*8*8*2012
+The Losers*4*11*2015
+The Lost Boys*1*31*2004
+The Man From Uncle*2*20*2016
+The Martian*1*29*2016
+The Mask*2*28*2015
+The Matrix*2*8*2014
+The Matrix Reloaded*11*1*2003
+The Muppets*2*10*2012
+The Nice Guys*7*29*2016
+The Other Guys*11*12*2010
+The Peanuts Movie*3*4*2016
+The Place Beyond the Pines*9*20*2014
+The Prestige*9*10*2016
+The Princess Bride*10*4*2014
+The Purge: Anarchy*10*31*2014
+The Ring*1*24*2003
+The Royal Tenebaums*3*9*2016
+The Social Network*10*13*2012
+The Sorcerer's Apprentice*10*15*2010
+The Spongebob Movie: Sponge out of Water*5*1*2015
+The Terminator*12*6*2003
+The Theory of Everything*4*10*2015
+The Transporter*2*14*2003
+The Watch*11*2*2012
+The Wedding Ringer*4*24*2015
+The Wolf of Wallstreet*3*28*2014
+The Wolverine*11*1*2013
+The World's End*11*15*2013
+Theater of Blood*10*30*2010
+Theory of Everything*4*10*2015
+This is the End*9*13*2013
+Thor *9*9*2011
+Thor: Dark World*2*21*2014
+Thunderball*2*8*2003
+Timeline*2*27*2004
+TomorrowLand*10*9*2015
+Top Gun*2*18*2017
+Total Recall(2012)*10*26*2012
+Toy Story*4*18*2015
+Toy Story 2*10*20*2012
+Toy Story 3*9*3*2010
+Training Day*2*1*2003
+Transformers: Dark of the Moon*10*14*2011
+Treasure Planet*3*21*2003
+TRON*8*30*2003
+Tron Legacy*3*25*2011
+True Grit*2*11*2017
+True Grit(2010)*4*1*2011
+Tucker and Dale Vs Evil*4*28*2012
+Twilight Saga: Eclipse*10*8*2010
+Underworld *2*4*2012
+Underworld: Awakening*4*21*2012
+Up*2*22*2014
+V for Vendetta*11*5*2011
+Vertigio *3*26*2016
+Wall-E*4*12*2016
+War Horse*3*30*2012
+Warcraft*9*16*2016
+Wargames*9*17*2016
+Warrior *12*9*2011
+Warrior's Way*9*24*2011
+Wayne's World*8*26*2010
+Wedding Crashers*12*3*2011
+Wet Hot American Summer*11*22*2003
+What a Girl Wants*3*31*2003
+Who Framed Roger Rabbit*3*27*2004
+Winnie the Pooh*10*29*2011
+World War Z*9*27*2013
+Wreck it Ralph*4*27*2013
+X:Men Apocalypse*9*23*2016
+X:Men Days of Future Past*9*26*2014
+X2: X-Men United*9*19*2003
+X-Men: First Class*9*23*2011
+Y Tu Mama tambien*2*15*2003
+Zootopia*10*21*2016
