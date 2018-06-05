@@ -22,18 +22,14 @@
 		</div>
 	</div>
 	<div id="body">
-		<div id="clubfilm-instructions" class="panel">
-			<h1>How to Sponsor a Club Film</h1>
+		<div id="search-archive" class="panel">
+			<h1>Search Movie Archive</h1>
 			<div>
-				<a href="#request-form">Jump to Request Form</a>
-				<ol>
-					<li>Getting Started</li>
-					<li>The Lottery</li>
-					<li>The Movie is Scheduled</li>
-					<li>The Contract</li>
-					<li>Running the Movie</li>
-				</ol>
-				<p><strong>To be continued:</strong> Website design is still in progress. I am still waiting for styling information on this section. Please be patient.</p>
+				<p>Search through our movie archive to see what we've shown in the past few years.</p><br>
+				<form method="GET">
+					<input type="text" value="" name="q">
+					<button type="submit">Search</button>
+				</form>
 			</div>
 		</div>
 		<div id="request-form" class="panel">
@@ -69,7 +65,7 @@
 						<tr><td>Third Choice Movie: </td><td><input type="text" name="movie3" optional></td></tr>
 						<tr><td>Fourth Choice Movie: </td><td><input type="text" name="movie4" optional></td></tr>
 						<tr><td colspan=2>
-							* I have read the How to Sponsor a Club Film Document.
+							* I have read the <a href="clubfilm-instructions.pdf" target="_blank">How to Sponsor a Club Film</a> document.
 							<input type="checkbox" name="read-instructions" required>
 						</td></tr>
 					</table><br>
