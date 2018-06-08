@@ -43,13 +43,48 @@
 		</div>
 		<div class="flex-container">
 			<div id="coming-soon" class="panel">
-				<div>
-					<p style="height:452px;">
-					What goes here is probably the most important content of all. It will most 
-					likely be a list of all the movies we have in the future. It might have a 
-					few other things, but I'm too tired to think of things at the moment. My 
-					recommendation is a slideshow of future movies. That seems appropriate, given 
-					that that is what people have come to expect from our website. 
+				<h1>Coming Soon</h1>
+				<div class="slideshow-container" style="height:400px">
+					<div class="slide">
+						<h2>Wonder</h2>
+						<p>Feb 16: 7PM, 9:30PM, 12AM</p>
+						<img src="images/Wonder_Big.jpg">
+					</div>
+					<div class="slide">
+						<h2>Brick</h2>
+						<p>Feb 17: 7PM, 9:30PM, 12AM</p>
+						<img src="images/Brick_backdrop.jpg">
+					</div>
+					<div class="slide">
+						<h2>Coco</h2>
+						<p>Feb 23: 7PM, 9:30PM, 12AM</p>
+						<img src="images/Coco_backdrop.jpg">
+					</div>
+					<div class="slide">
+						<h2>Reservoir Dogs</h2>
+						<p>Feb 24: 7PM, 9:30PM, 12AM</p>
+						<img src="images/Reservoir_Dogs_backdrop.jpg">
+					</div>
+					<div class="slide">
+						<h2>The Shape of Water</h2>
+						<p>Mar 2: 7PM, 9:30PM</p>
+						<img src="images/The_Shape_of_Water_backdrop.jpg">
+					</div>
+					<script>
+					var slideIndex = 0;
+					showSlides();
+					function showSlides() {
+						var i;
+						var slides = document.getElementsByClassName("slide");
+						for(i = 0; i < slides.length; i++) {
+							slides[i].style.display = "none";
+						}
+						slides[slideIndex].style.display = "block";
+						slideIndex++;
+						if(slideIndex >= slides.length) {slideIndex = 0;}
+						setTimeout(showSlides, 2000);
+					}
+					</script>
 				</div>
 			</div>
 			<div id="calendar" class="panel">
