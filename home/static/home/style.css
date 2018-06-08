@@ -13,10 +13,10 @@ body {
 	padding: 0;
 	background: black;
 }
-#body div {
+div {
 	margin: 16px;
 }
-#body div.panel h1 {
+.panel h1 {
 	display: block;
 	margin: 0;
 	background-color: yellow;
@@ -28,17 +28,17 @@ body {
 	font-size: 18pt;
 	line-height: 36px;
 }
-#body div.panel div {
+.panel div {
 	margin: 0;
 	background-color: white;
 	color: black;
 	padding: 15px;
 	overflow: auto;
 }
-#body div.panel div div {
+.panel div div {
 	padding: 0;
 }
-#body div.panel div h2 {
+.panel h2 {
 	text-decoration: none;
 	font-size: 16pt;
 	color: red;
@@ -46,52 +46,55 @@ body {
 	padding: 0;
 	font-weight: normal;
 }
-#body div.panel div a {
+.panel a {
 	text-decoration: none;
 	color: red;
 	font-weight: normal;
 }
-#body div.panel div a:hover {
+.panel a:hover {
 	color: darkred;
 }
-#body div.panel div ol {
+.panel ol {
 	margin: 0;
 	padding: 20px;
 }
-#body div.panel div ul {
+.panel ul {
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
-#body div.panel div li a {
+.panel li a {
 	color: black;
 }
-#body div.panel div p {
+.panel p {
 	margin: 0;
 	padding: 0;
 }
-#body #login {
-	padding: 20px;
+#login {
+	padding: 20px 50px;
 }
-#body #login * {
-	text-align: center;
-}
-#body #login div table {
+#login * {
 	text-align: center;
 	margin: 0 auto;
-	padding: 0;
 }
-#body #trailer {
-	display: inline-block;
-}
-#body div div.panel {
-	display: inline-block;
-	max-width: auto;
-}
-#body div.panel img {
+.panel img {
 	float: left;
 	margin: 10px;
 }
-div.flex-container {
+.flex-container {
 	display: flex;
+}
+.slideshow-container {
+	position: relative;
+	padding: 0;
+	margin: 0;
+}
+.slide {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+.slide img {
+	max-width: 100%;
+	margin: 0;
 }
