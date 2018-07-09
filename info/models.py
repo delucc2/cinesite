@@ -69,3 +69,15 @@ class Movie(models.Model):
 # Model to represent current movie schedule
 class Schedule(models.Model):
     movies = models.ManyToManyField(Movie)
+
+# Returns queryset of Updated Archive
+class UpdateArchive(models.Manager):
+    def get_queryset(self):
+        expire = date.today()
+        expire = expire.replace(year = today.year - 4)
+        return Archive.movies.filter(showing_date_gte=expire)
+
+# Model to represent movie archive
+class Archive(models.Model):
+    movies = models.ManyToManyField(Movie)
+    updated_archive = UpdateArchive()
