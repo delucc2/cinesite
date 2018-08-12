@@ -5,23 +5,23 @@
 <head>
 	<meta charset="UTF-8">
 	<title>UPAC Cinema</title>
-	<link rel="stylesheet" href="{% static 'home/header.css' %}" type="text/css">
 	<link rel="stylesheet" href="{% static 'home/style.css' %}" type="text/css">
-	<link rel="stylesheet" href="{% static 'home/footer.css' %}" type="text/css">
 </head>
 <body>
-	<div id="header">
+	<header>
 		<div>
 			<a href="" id="logo"><img src="{% static 'home/images/logo.png' %}" alt="LOGO"></a>
-			<ul>
-				<li class="selected"><a href="">Schedule</a></li>
-				<li><a href="policies">FAQ / Policies</a></li>
-				<li><a href="requests">Movie Archive / Requests</a></li>
-				<li><a href="feedback">Contact / Feedback</a></li>
-				<li><a class=button href="login">Log In</a></li>
-			</ul>
+			<nav>
+				<ul>
+					<li class="selected"><a href="">Schedule</a></li>
+					<li><a href="policies">FAQ / Policies</a></li>
+					<li><a href="requests">Movie Archive / Requests</a></li>
+					<li><a href="feedback">Contact / Feedback</a></li>
+					<li><a class=button href="login">Log In</a></li>
+				</ul>
+			</nav>
 		</div>
-	</div>
+	</header>
 	<div id="body">
 		<div class="flex-container">
 			<div id="now-playing" class="panel">
@@ -85,6 +85,15 @@
 						setTimeout(showSlides, 2000);
 					}
 					</script>
+					<noscript>
+					<ul>
+						<li><strong>Wonder</strong> (Feb 16)</li>
+						<li><strong>Brick</strong> (Feb 17)</li>
+						<li><strong>Coco</strong> (Feb 23)</li>
+						<li><strong>Reservoir Dogs</strong> (Feb 24)</li>
+						<li><strong>The Shape of Water</strong> (Mar 2)</li>
+					</ul>
+					</noscript>
 				</div>
 			</div>
 			<div id="calendar" class="panel">
@@ -95,12 +104,12 @@
 			</div>
 		</div>
 	</div>
-	<div id="footer">
+	<footer>
 		<div>
 			<div class=connect>
 				<span>Follow Us On</span>
 				<ul>
-					<li><a href="https://www.instagram.com/rpiunion/"><img src="{% static 'home/images/insta.png' %}" alt="insta"></a></li>
+					<!-- <li><a href="https://www.instagram.com/rpiunion/"><img src="{% static 'home/images/insta.png' %}" alt="insta"></a></li> -->
 					<li><a href="https://www.facebook.com/UPACCinema/"><img src="{% static 'home/images/facebook.png' %}" alt="f"></a></li>
 					<li><a href="https://twitter.com/UPACCinema/"><img src="{% static 'home/images/twitter.png' %}" alt="#"></a></li>
 					<li><a href="https://reddit.com/user/UPACCinema/"><img src="{% static 'home/images/reddit.png' %}" alt="r/"></a></li>
@@ -108,9 +117,9 @@
 			</div>
 			<div>
 				<span>Email Us At</span>
-				<p>upac-cinema@union.lists.rpi.edu</p>
+				<address><p>upac-cinema@union.lists.rpi.edu</p></address>
 			</div>
 		</div>
-	</div>
+	</footer>
 </body>
 </html>

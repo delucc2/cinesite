@@ -3,24 +3,24 @@
 
 <html>
 <head>
-	<link rel="stylesheet" href="{% static 'home/header.css' %}" type="text/css">
 	<link rel="stylesheet" href="{% static 'home/style.css' %}" type="text/css">
-	<link rel="stylesheet" href="{% static 'home/footer.css' %}" type="text/css">
 	<title>UPAC Cinema</title>
 </head>
 <body>
-	<div id="header">
+	<header>
 		<div>
-			<a href="/" id="logo"><img src="{% static 'home/images/logo.png' %}" alt="LOGO"></a>
-			<ul>
-				<li><a href="/">Schedule</a></li>
-				<li><a href="policies">FAQ / Policies</a></li>
-				<li><a href="requests">Movie Archive / Requests</a></li>
-				<li class="selected"><a href="feedback">Contact / Feedback</a></li>
-				<li><a class=button href="login">Log In</a></li>
-			</ul>
+			<a href="/" id="logo"><img src="{% static 'home/images/logo.png' %}" alt="UPAC Cinema"></a>
+			<nav>
+				<ul>
+					<li><a href="/">Schedule</a></li>
+					<li><a href="policies">FAQ / Policies</a></li>
+					<li><a href="requests">Movie Archive / Requests</a></li>
+					<li class="selected"><a href="feedback">Contact / Feedback</a></li>
+					<li><a class=button href="login">Log In</a></li>
+				</ul>
+			</nav>
 		</div>
-	</div>
+	</header>
 	<div id="body">
 		<div id="contact" class="panel">
 			<h1>Contact</h1>
@@ -63,19 +63,19 @@
 						<tr><td>Email (Optional): </td><td><input type="text" value="" optional></td></tr>
 					</table>
 					<br>
-					<span><label>Comments:</label><br>
+					<label>Comments:</label><br>
 					<textarea rows=10 cols=80></textarea><br><br>
 					<button type="submit">Send Feedback</button>
 				</form>
 			</div>
 		</div>
 	</div>
-	<div id="footer">
+	<footer>
 		<div>
 			<div class=connect>
 				<span>Follow Us On</span>
 				<ul>
-					<li><a href="https://www.instagram.com/rpiunion/"><img src="{% static 'home/images/insta.png' %}" alt="insta"></a></li>
+					<!-- <li><a href="https://www.instagram.com/rpiunion/"><img src="{% static 'home/images/insta.png' %}" alt="insta"></a></li> -->
 					<li><a href="https://www.facebook.com/UPACCinema/"><img src="{% static 'home/images/facebook.png' %}" alt="f"></a></li>
 					<li><a href="https://twitter.com/UPACCinema/"><img src="{% static 'home/images/twitter.png' %}" alt="#"></a></li>
 					<li><a href="https://reddit.com/user/UPACCinema."><img src="{% static 'home/images/reddit.png' %}" alt="r/"></a></li>
@@ -83,9 +83,9 @@
 			</div>
 			<div>
 				<span>Email Us At</span>
-				<p>upac-cinema@union.lists.rpi.edu</p>
+				<address><p>upac-cinema@union.lists.rpi.edu</p></address>
 			</div>
 		</div>
-	</div>
+	</footer>
 </body>
 </html>
